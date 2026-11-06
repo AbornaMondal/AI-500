@@ -1,0 +1,10 @@
+azure-ai-projects>=2.3.0
+azure-identity
+python-dotenv
+
+azure-identity
+azure-mgmt-resource
+azure-mgmt-compute
+azure-monitor-opentelemetry 
+opentelemetry-sdk 
+azure-core-tracing-opentelemetry
